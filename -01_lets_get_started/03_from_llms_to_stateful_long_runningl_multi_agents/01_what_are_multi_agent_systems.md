@@ -6,7 +6,7 @@
 
 **AI Agents Kya Hain?**  
 - **Definition**: AI agents LLMs hote hain jo ek iterative loop mein kaam karte hain, tools aur feedback (tool call results) ka istemal karte hue khud planning aur actions karte hain, aksar human checkpoints ke saath.  
-![Alt text](evaluation.jpg)
+![Alt text](evalution.jpg)
 
 - **Breakdown**:  
   - **LLMs**: Yeh agent ka core dimaag hain.  
