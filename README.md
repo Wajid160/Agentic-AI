@@ -47,9 +47,6 @@ Agar aap is project mein hissa lena chahte hain, to issues banayein ya pull requ
 ## License
 Ye project MIT License ke tehat hai.
 
-## Contact
-Koi sawal? Hum se rabta karein: [your-email@example.com]
-
 ---
 
 *Ye repository Panaversity ke "learn-agentic-ai" repo se inspired hai aur isay asaan aur mukhtasir banaya gaya hai.*
