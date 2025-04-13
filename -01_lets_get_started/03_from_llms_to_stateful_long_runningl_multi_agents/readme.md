@@ -51,7 +51,7 @@ Hamne mukhtalif domains mein agents ke bare mein documentation banayi hai, jo gl
 
 **Dapr Agentic Cloud Ascent (DACA) Design Pattern**:
 DACA ek design pattern hai jo planet-scale multi-agent systems banane ke liye hai. Yeh OpenAI Agents SDK, Dapr ke distributed features, aur cloud services ka istemal karta hai. Isme yeh shamil hain:
-
+![Alt text](architecture.png)
 - **Event-Driven Architecture (EDA)**: Real-time actions ke liye.
 - **Three-Tier Architecture**: Scalability aur management ke liye.
 - **Stateless Computing**: Tezi aur efficiency ke liye.
