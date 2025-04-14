@@ -1,1 +1,2 @@
 # for pushing code on github : git add . ; git commit -m "Update changes" ; git push origin main
+# how to add image in .md file: ![Alt text](path/to/image.jpg)
