@@ -1,5 +1,3 @@
-Let's start it.
-
 # Conversational AI Chainlit ke Saath
 
 [Official Docs](https://docs.astral.sh/uv/)  
